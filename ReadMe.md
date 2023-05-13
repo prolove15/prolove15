@@ -30,7 +30,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 💼 Technical Skills
 
-![Unity](https://user-images.githubusercontent.com/125852184/238133234-cee19f65-d97f-4036-9afb-afb29259dc8d.png)
+![Unity](https://user-images.githubusercontent.com/125852184/238133704-e8bcaa90-1a0e-454e-ba7f-403f1b19bec3.png)
 ![Vue](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Next](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
