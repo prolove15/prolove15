@@ -5,14 +5,17 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="" target="_blank" rel="noreferrer">Bright Light</a> 👋
+🤗 Hi there, Welcome to my profile
 </h3>
 
 <h2 align="center">
-I'm a Unity Game Developer!
-</h2> 
+ Who am I
+</h2>
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+<h4 align="center">
+ Skilled game & mobile app developer in creating 2D and 3D games & apps for clients across different industries
+</h4>
+
 <!-- 
 ### 🤝 Connect with me:
 
@@ -22,22 +25,43 @@ I love the entire process of developing creative websites. I love the challenge 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me! -->
 
-## 🔭 I'm currently working on
+## 🔭 Summary
 
-- Unity Game Development Company
+"Nothing great was ever achieved without Enthusiasm."
 
-## 🌱 I'm currently learning
+My expertise includes game development, scripting, animation and UI design.
+I have a strong portfolio of games that have received positive user reviews and have been featured on major gaming features
+With a passion for creating unique and compelling gaming experiences, I collaborate closely with clients to deliver projects that meet their exact needs and exceed their expectations
 
-- Blockchain, MERN Stack, Laravel, Database Science
+## 🌱 What can I do
+
+- Unity & Unreal development
+- Web game
+- Multiplayer game
+- Metaverse app
+- Card game
+- Casual game
+- RPG game
+- NFT game
+- 3D Modeling
+- Game UI/UX design
+- Mobile game/app
+
+## 💻 Programming Language
+
+- C#
+- C/C++
+- PHP
+- Javascript
+- Python
+- Java
 
 ## 💼 Technical Skills
 
-![Unity](https://user-images.githubusercontent.com/125852184/238133704-e8bcaa90-1a0e-454e-ba7f-403f1b19bec3.png)
-![Vue](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Next](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TypeScript](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<span><img src="https://user-images.githubusercontent.com/125852184/246620765-5085a9a4-7976-41ec-ac1e-a487f648ef71.jpg" width=150px height=150px />
+<img src="https://user-images.githubusercontent.com/125852184/246620769-a0944926-ceb7-4160-a5f9-b7c3fce7877a.png" width=150px height=150px />
+<img src="https://user-images.githubusercontent.com/125852184/246620770-f22bad53-4544-4db9-8c50-656dc1d032dc.png" width=150px height=150px />
+<img src="https://user-images.githubusercontent.com/125852184/246620790-7b8fce96-e675-4111-b9d6-25b031e58b8f.png" width=150px height=150px />
 
 </br>
 
