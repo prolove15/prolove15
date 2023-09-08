@@ -38,13 +38,6 @@ Nothing great was ever achieved without Enthusiasm."
 - Web game
 - Mobile game/app
 
-## 🖥️ Development Tools
-- Unity
-- Unreal
-- Photoshop
-- Maya
-- XD
-
 ## 💻 Programming Language
 
 - C#
@@ -54,7 +47,7 @@ Nothing great was ever achieved without Enthusiasm."
 
 ## 💼 Technical Skills
 
-<span><img src="https://user-images.githubusercontent.com/125852184/246620765-5085a9a4-7976-41ec-ac1e-a487f648ef71.jpg" width=150px height=150px />
-<img src="https://user-images.githubusercontent.com/125852184/246620769-a0944926-ceb7-4160-a5f9-b7c3fce7877a.png" width=150px height=150px />
-<img src="https://user-images.githubusercontent.com/125852184/246620770-f22bad53-4544-4db9-8c50-656dc1d032dc.png" width=150px height=150px />
-<img src="https://user-images.githubusercontent.com/125852184/246620790-7b8fce96-e675-4111-b9d6-25b031e58b8f.png" width=150px height=150px />
+<span><img src="https://user-images.githubusercontent.com/125852184/266737943-774e4d97-5b0e-4c8d-b3c2-31c61bef234a.png" width=150px height=150px />
+<img src="https://user-images.githubusercontent.com/125852184/266738155-48d395ab-8888-4db4-96df-75af763da236.jpg" width=150px height=150px />
+<img src="https://user-images.githubusercontent.com/125852184/266737957-585a370b-1ec6-4804-ab96-e909e4ebb087.png" width=150px height=150px />
+<img src="https://user-images.githubusercontent.com/125852184/266737959-fe5ce221-deba-4fe7-afc9-792d93a9ee85.png" width=150px height=150px />
