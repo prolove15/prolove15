@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https:/blight-1115-b.web.app/" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/125852184/266736830-43c522b0-ec8c-4ef9-8ac0-563007cb3a89.jpg" alt="" border="3px" />
   </a>
 </p>
