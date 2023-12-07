@@ -17,7 +17,7 @@
 </h2>
 
 <h4 align="center">
- I am a dedicated game maker with over 6 years of experience using Unity.
+Greetings, I'm GameHeartbeat, a dedicated Unity game developer whose creative pulse fuels the journey of crafting virtual realms and bringing dreams to life through code and pixels.
 </h4>
 
 <br/>
