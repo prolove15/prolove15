@@ -18,7 +18,7 @@
 </h2>
 
 <h4 align="center">
-Greetings, I'm GameHeartbeat, a dedicated Unity game developer whose creative pulse fuels the journey of crafting virtual realms and bringing dreams to life through code and pixels.
+👋 Hi there, I'm a dedicated Unity game developer whose creative pulse fuels the journey of crafting virtual realms and bringing dreams to life through code and pixels.
 </h4>
 
 <br/>
