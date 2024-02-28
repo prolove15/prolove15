@@ -7,7 +7,8 @@
 <br/>
 
 <h3 align="center">
-🤗 Hello there, Welcome to my profile
+❤️Love games, so create games
+🧒Childhood dream
 </h3>
 
 <br/>
