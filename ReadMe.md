@@ -1,11 +1,11 @@
   <p align="center">
-<!--   <img src="https://private-user-images.githubusercontent.com/125852184/311425475-30f81751-f96d-4650-9207-c0d472632503.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk5NzQ0MzAsIm5iZiI6MTcwOTk3NDEzMCwicGF0aCI6Ii8xMjU4NTIxODQvMzExNDI1NDc1LTMwZjgxNzUxLWY5NmQtNDY1MC05MjA3LWMwZDQ3MjYzMjUwMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwOVQwODQ4NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNDg2OTNmOTAyZjNjOGJhZjI5MDU0OGEzOThlMDE3Y2U5Nzg1MDZlZmI5ODZjNjg3OTY3ZmFhYjQxMjJjZmM5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.VLOGkb-hndbQWQqpEMB2sbBSJINxCd5atQ5g-I4Mckg" alt="" style="width:100%; max-width:100%;" border="3px" /> -->
+<!--   <img src="" alt="" style="width:100%; max-width:100%;" border="3px" /> -->
 </p>
 
 <br/>
 
 <h3 align="center">
-❤️Love games, so create games
+Passionate Unity Game Developer | Designer
 </h3>
 
 <br/>
@@ -23,11 +23,15 @@ I want to make a positive impact on society and global culture by using my passi
 
 <br/>
 
-## 🔭 Portfolio
+## 🔭 Proudest Projects
 
-- POP Blocks (Puzzle match game)
-  <p align="center">
-    <img src="https://private-user-images.githubusercontent.com/125852184/311426782-4857785b-8e72-4c89-a8bb-72352959dc12.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk5NzU0NzcsIm5iZiI6MTcwOTk3NTE3NywicGF0aCI6Ii8xMjU4NTIxODQvMzExNDI2NzgyLTQ4NTc3ODViLThlNzItNGM4OS1hOGJiLTcyMzUyOTU5ZGMxMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwOVQwOTA2MTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNDMxZWU1YzkxZjk5YmU5ODEyOWIzZGVjZTA4MmNjOWNhNGJmZWQzYjI3YWE3ZmNiMGY5MGY1NWNhMjY5ZDU3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Z8PwVTHaOYIO4Qm56EVtl2Xn9TA4eE5e2WHMS4C33YM" alt="" style="width:90%; max-width:90%;" border="3px" />
+- Super Solitaire (Card game)
+  <p>
+Google Play Store (100k+ download):
+<a href="https://play.google.com/store/apps/details?id=com.thebinaryfamily.supersolitaire" />
+
+App Store (19.9k+ ratings):
+<a href="https://apps.apple.com/us/app/super-solitaire-card-game/id1274440615" />
   </p>
   <br/>
 - Toy Bloast (Match 2 game)
