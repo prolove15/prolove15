@@ -1,33 +1,30 @@
-  <p align="center">
-    <a href="https://ibb.co/7kwbkmw"><img src="https://i.ibb.co/bbS7b9S/Banner.jpg" alt="Banner" border="0"></a>
+<p align="center">
+  <a href="https://ibb.co/7kwbkmw"><img src="https://i.ibb.co/bbS7b9S/Banner.jpg" alt="Banner" border="0"></a>
   <img src="https://ibb.co/tP9w0TT" alt="" style="width:100%; max-width:100%;" border="3px" />
 </p>
-
-<br/>
-
-<h3 align="center">
-Passionate Unity Game Developer | Designer
-</h3>
-
 <br/>
 
 <h2 align="center">
- About me
+  Who am I
 </h2>
-
-<h4 align="center">
-I'm a dedicated game developer and have an extensive experience with Unity.
-I want to make a positive impact on society and global culture by using my passion and skills in game development.
-</h4>
-
 <br/>
 
-## 🔭 Portfolio
+<h3 align="center">
+  Passionate Unity Game Developer
+</h3>
+
+<h4 align="center">
+  <p>I'm a dedicated game developer and have an extensive experience with Unity</p>
+  <p>I want to make a positive impact on society and global culture by using my passion and skills in game development</p>
+</h4>
+<br/>
+
+## 🔭 Proudest Projects
 
 - Super Solitaire
   <p>Game genre: Card</p>
   <p>My role: Programmer</p>
-  <p>What I've done: Bug fix, Version upgrade, Adding new features</p>
+  <p>What I've done: ✅Bug fix, ✅Version upgrade, ✅Adding new features</p>
   <p>Period: Jun 2023 - Oct 2023</p>
   <p>
     <a href="https://play.google.com/store/apps/details?id=com.thebinaryfamily.supersolitaire">Google Play Store (100k+ downloads)</a>
@@ -37,7 +34,7 @@ I want to make a positive impact on society and global culture by using my passi
 - Rage War
   <p>Game genre: Strategy, Multiplayer</p>
   <p>My role: Programmer</p>
-  <p>What I've done: Code refactoring, Adding new features, Optimization</p>
+  <p>What I've done: ✅Code refactoring, ✅Adding new features, ✅Optimization</p>
   <p>Period: Feb 2021 - Aug 2022</p>
   <p>
     <a href="https://play.google.com/store/apps/details?id=com.furystudio.ragewar">Google Play Store (100k+ downloads)</a>
@@ -46,7 +43,7 @@ I want to make a positive impact on society and global culture by using my passi
 - MotoGP Racing
   <p>Game genre: Racing, Casual</p>
   <p>My role: Game designer | Modeler</p>
-  <p>What I've done: UI design improvement, Model optimization, Adding new animations</p>
+  <p>What I've done: ✅UI design improvement, ✅Model optimization, ✅Animation modification ✅Material/Shader fix</p>
   <p>Period: Oct 2018 - May 2019</p>
   <p>
     <a href="https://play.google.com/store/apps/details?id=com.weplay.motogp&hl=en">Google Play Store (10M+ downloads)</a>
