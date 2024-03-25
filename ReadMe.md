@@ -21,8 +21,6 @@ I want to make a positive impact on society and global culture by using my passi
 
 <br/>
 
-<br/>
-
 ## 🔭 Portfolio
 
 - Super Solitaire
@@ -31,8 +29,8 @@ I want to make a positive impact on society and global culture by using my passi
   What I've done: Bug fix, Version upgrade, Adding new features
   Period: Jun 2023 - Oct 2023
   <p>
-<a href="https://play.google.com/store/apps/details?id=com.thebinaryfamily.supersolitaire">Google Play Store (100k+ downloads)</a>
-<a href="https://apps.apple.com/us/app/super-solitaire-card-game/id1274440615">App Store (19.9k+ ratings)</a>
+    <a href="https://play.google.com/store/apps/details?id=com.thebinaryfamily.supersolitaire">Google Play Store (100k+ downloads)</a>
+    <a href="https://apps.apple.com/us/app/super-solitaire-card-game/id1274440615">App Store (19.9k+ ratings)</a>
   </p>
   <br/>
   
@@ -40,9 +38,29 @@ I want to make a positive impact on society and global culture by using my passi
   Game genre: VR
   My role: Game designer
   What I've done: UI design, Level design
-  Period: Jul 2019 - Oct 2020
+  Period: Jul 2019 - Apr 2020
   <p>
     <a href="https://store.steampowered.com/app/858260/Until_You_Fall/">Steam (2.7k+ reviews)</a>
+  </p>
+  <br/>
+  
+- MotoGP Racing
+  Game genre: Racing, Casual
+  My role: Gameplay programmer
+  What I've done: Adding new features, Optimization
+  Period: Oct 2018 - May 2019
+  <p>
+    <a href="https://store.steampowered.com/app/858260/Until_You_Fall/">Google Play Store (10M+ downloads)</a>
+  </p>
+  <br/>
+  
+- Rage War
+  Game genre: Strategy, Multiplayer
+  My role: Gameplay programmer
+  What I've done: Code refactoring, Adding new features, Optimization
+  Period: Feb 2021 - Aug 2022
+  <p>
+    <a href="https://play.google.com/store/apps/details?id=com.furystudio.ragewar">Google Play Store (100k+ downloads)</a>
   </p>
   <br/>
   
