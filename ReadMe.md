@@ -23,20 +23,29 @@ I want to make a positive impact on society and global culture by using my passi
 
 <br/>
 
-## 🔭 Proudest Projects
+## 🔭 Portfolio
 
-- Super Solitaire (Card game)
+- Super Solitaire
+  Game genre: Card
+  My role: Gameplay programmer
+  What I've done: Bug fix, Version upgrade, Adding new features
+  Period: Jun 2023 - Oct 2023
   <p>
-<a href="https://play.google.com/store/apps/details?id=com.thebinaryfamily.supersolitaire">Google Play Store (100k+ download)</a>
-
+<a href="https://play.google.com/store/apps/details?id=com.thebinaryfamily.supersolitaire">Google Play Store (100k+ downloads)</a>
 <a href="https://apps.apple.com/us/app/super-solitaire-card-game/id1274440615">App Store (19.9k+ ratings)</a>
   </p>
   <br/>
-- Toy Bloast (Match 2 game)
-  <p align="center">
-    <img src="https://private-user-images.githubusercontent.com/125852184/311426810-d6862e61-a5f1-4bc9-90d5-17fb9ccc30d1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk5NzU0NzksIm5iZiI6MTcwOTk3NTE3OSwicGF0aCI6Ii8xMjU4NTIxODQvMzExNDI2ODEwLWQ2ODYyZTYxLWE1ZjEtNGJjOS05MGQ1LTE3ZmI5Y2NjMzBkMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwOVQwOTA2MTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZGZjNzk3ZjYyMjI3MWRiNWFjNjQyYWM4ZGExMDk2YWQ1MmExNTY4ZWFhZjRjMzkzMWJkMzIwMTNlNTgyY2Y3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.wZz6aH7_lONOVwQM4OeRBow_HGJyWzXynTtdf-h6v_w" alt="" style="width:90%; max-width:90%;" border="3px" />
+  
+- Until You Fall
+  Game genre: VR
+  My role: Game designer
+  What I've done: UI design, Level design
+  Period: Jul 2019 - Oct 2020
+  <p>
+    <a href="https://store.steampowered.com/app/858260/Until_You_Fall/">Steam (2.7k+ reviews)</a>
   </p>
   <br/>
+  
 - Vegas Slot Machine (Slot Machine game)
   <p align="center">
     <img src="https://private-user-images.githubusercontent.com/125852184/311426835-51ffe8f3-879e-4886-ab20-47f462c75e73.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk5NzU3MTMsIm5iZiI6MTcwOTk3NTQxMywicGF0aCI6Ii8xMjU4NTIxODQvMzExNDI2ODM1LTUxZmZlOGYzLTg3OWUtNDg4Ni1hYjIwLTQ3ZjQ2MmM3NWU3My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwOVQwOTEwMTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kMjJhZDUzYmFiYmQ4ZDJkOTNlM2E4ODVjZjBiMTIyNmZiYjQ1N2IyYjFhNjFlZGRjYjdmNTZlZjAxOGVmMWY3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.JIndcQ3-rq6KD_PjxfcMnET9OyM-vBq06es7ekBs2Zs" alt="" style="width:90%; max-width:90%;" border="3px" />
