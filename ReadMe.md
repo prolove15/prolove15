@@ -24,10 +24,10 @@ I want to make a positive impact on society and global culture by using my passi
 ## 🔭 Portfolio
 
 - Super Solitaire
-  Game genre: Card
-  My role: Programmer
-  What I've done: Bug fix, Version upgrade, Adding new features
-  Period: Jun 2023 - Oct 2023
+  <p>Game genre: Card</p>
+  <p>My role: Programmer</p>
+  <p>What I've done: Bug fix, Version upgrade, Adding new features</p>
+  <p>Period: Jun 2023 - Oct 2023</p>
   <p>
     <a href="https://play.google.com/store/apps/details?id=com.thebinaryfamily.supersolitaire">Google Play Store (100k+ downloads)</a>
     <a href="https://apps.apple.com/us/app/super-solitaire-card-game/id1274440615">App Store (19.9k+ ratings)</a>
