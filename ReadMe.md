@@ -31,6 +31,9 @@
   </p>
   
 - Rage War
+  <p>
+    <img src="https://i.ibb.co/NxfYpfN/Rage-War.webp" alt="Rage War" border="0">    
+  </p>
   <p>Game genre: Strategy, Multiplayer</p>
   <p>My role: Programmer</p>
   <p>What I've done: ✅Code refactoring, ✅Adding new features, ✅Optimization</p>
@@ -40,6 +43,9 @@
   </p>
 
 - MotoGP Racing
+  <p>
+    <img src="https://i.ibb.co/0f2pWNn/Moto-GP-Racing.webp" alt="MotoGP Racing" border="0">
+  </p>
   <p>Game genre: Racing, Casual</p>
   <p>My role: Game designer | Modeler</p>
   <p>What I've done: ✅UI design improvement, ✅Model optimization, ✅Animation modification ✅Material/Shader fix</p>
