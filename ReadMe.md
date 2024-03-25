@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ibb.co/7kwbkmw"><img src="https://i.ibb.co/bbS7b9S/Banner.jpg" alt="Banner" border="0"></a>
+  <img src="https://i.ibb.co/bbS7b9S/Banner.jpg" alt="Banner" border="0">
 </p>
 
 ## ❓ Who am I
@@ -18,6 +18,9 @@
 ## 💪 Proudest Projects
 
 - Super Solitaire
+  <p>
+    <img src="https://i.ibb.co/fdf79BC/Solitaire-2.webp" alt="Solitaire 2" border="0">
+  </p>
   <p>Game genre: Card</p>
   <p>My role: Programmer</p>
   <p>What I've done: ✅Bug fix, ✅Version upgrade, ✅Adding new features</p>
@@ -57,8 +60,9 @@
 <br/>
 
 ## 💼 Technical Skills
-- Expertise in Game Design
-- Proficient in Unity/Unity3D, C#, and JavaScript
+- Proficient in Unity and C#
+- Expertise in game development
+- In-depth knowledge in game design
 - Strong understanding of game development principles and methodologies
 - Experience with 3D modeling and animation
 - Knowledge of virtual reality (VR) and augmented reality (AR) technologies
