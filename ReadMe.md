@@ -1,22 +1,18 @@
 <p align="center">
   <a href="https://ibb.co/7kwbkmw"><img src="https://i.ibb.co/bbS7b9S/Banner.jpg" alt="Banner" border="0"></a>
-  <img src="https://ibb.co/tP9w0TT" alt="" style="width:100%; max-width:100%;" border="3px" />
 </p>
-<br/>
 
-<h2 align="center">
-  Who am I
-</h2>
-<br/>
+## ❓ Who am I
 
 <h3 align="center">
   Passionate Unity Game Developer
 </h3>
 
 <h4 align="center">
-  <p>I'm a dedicated game developer and have an extensive experience with Unity</p>
-  <p>I want to make a positive impact on society and global culture by using my passion and skills in game development</p>
+  <p>A highly skilled and motivated Unity game developer with 6+ years of experience in developing interactive and immersive games and applications</p>
+  <p>I want to make a positive impact on society and global culture by using my passion and expertisement</p>
 </h4>
+
 <br/>
 
 ## 🔭 Proudest Projects
@@ -62,12 +58,10 @@
 
 ## 💼 Technical Skills
 - Unity
-<img src="https://user-images.githubusercontent.com/125852184/266737943-774e4d97-5b0e-4c8d-b3c2-31c61bef234a.png" width=350px height=197px />
-
-<br/>
+<img src="https://user-images.githubusercontent.com/125852184/266737943-774e4d97-5b0e-4c8d-b3c2-31c61bef234a.png" width=25% />
 
 - Unreal
-<img src="https://user-images.githubusercontent.com/125852184/266738155-48d395ab-8888-4db4-96df-75af763da236.jpg" width=350px height=197px />
+<img src="https://user-images.githubusercontent.com/125852184/266738155-48d395ab-8888-4db4-96df-75af763da236.jpg" width=25%/>
 
 <br/>
 
