@@ -27,6 +27,8 @@
   <p>Period: Jun 2023 - Oct 2023</p>
   <p>
     <a href="https://play.google.com/store/apps/details?id=com.thebinaryfamily.supersolitaire">Google Play Store (100k+ downloads)</a>
+  </p>
+  <p>
     <a href="https://apps.apple.com/us/app/super-solitaire-card-game/id1274440615">App Store (19.9k+ ratings)</a>
   </p>
   
