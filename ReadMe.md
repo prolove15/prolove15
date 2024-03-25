@@ -27,11 +27,9 @@ I want to make a positive impact on society and global culture by using my passi
 
 - Super Solitaire (Card game)
   <p>
-Google Play Store (100k+ download):
-<a href="https://play.google.com/store/apps/details?id=com.thebinaryfamily.supersolitaire" />
+<a href="https://play.google.com/store/apps/details?id=com.thebinaryfamily.supersolitaire">Google Play Store (100k+ download)</a>
 
-App Store (19.9k+ ratings):
-<a href="https://apps.apple.com/us/app/super-solitaire-card-game/id1274440615" />
+<a href="https://apps.apple.com/us/app/super-solitaire-card-game/id1274440615">App Store (19.9k+ ratings)</a>
   </p>
   <br/>
 - Toy Bloast (Match 2 game)
