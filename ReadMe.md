@@ -1,8 +1,5 @@
   <p align="center">
-    <a href="https://ibb.co/tP9w0TT"><img src="https://i.ibb.co/k6tVLss/unnamed.webp" alt="unnamed" border="0"></a>
-    <a href="https://ibb.co/tP9w0TT"><img src="https://i.ibb.co/tP9w0TT/unnamed.webp" alt="unnamed" border="0"></a>
-    [url=https://ibb.co/tP9w0TT][img]https://i.ibb.co/k6tVLss/unnamed.webp[/img][/url]
-    [url=https://ibb.co/tP9w0TT][img]https://i.ibb.co/tP9w0TT/unnamed.webp[/img][/url]
+    <a href="https://ibb.co/7kwbkmw"><img src="https://i.ibb.co/bbS7b9S/Banner.jpg" alt="Banner" border="0"></a>
   <img src="https://ibb.co/tP9w0TT" alt="" style="width:100%; max-width:100%;" border="3px" />
 </p>
 
@@ -46,15 +43,6 @@ I want to make a positive impact on society and global culture by using my passi
     <a href="https://play.google.com/store/apps/details?id=com.furystudio.ragewar">Google Play Store (100k+ downloads)</a>
   </p>
 
-- Until You Fall
-  <p>Game genre: VR</p>
-  <p>My role: Gameplay programmer</p>
-  <p>What I've done: Adding new features, Optimization</p>
-  <p>Period: Jul 2019 - Apr 2020</p>
-  <p>
-    <a href="https://store.steampowered.com/app/858260/Until_You_Fall/">Steam (2.7k+ reviews)</a>
-  </p>
-  
 - MotoGP Racing
   <p>Game genre: Racing, Casual</p>
   <p>My role: Game designer | Modeler</p>
