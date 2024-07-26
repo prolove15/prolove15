@@ -5,11 +5,11 @@
 ## ❓ Who am I
 
 <h3>
-  Passionate Unity Game Developer
+  A Passionate Game Developer
 </h3>
 
 <h4>
-  <p>A highly skilled and motivated Unity game developer with 6+ years of experience in developing interactive and immersive games and applications.
+  <p>A highly skilled and motivated game developer with 6+ years of experience in developing interactive and immersive games and applications.
     I want to make a positive impact on society and global culture by using my passion and expertisement</p>
 </h4>
 
@@ -69,6 +69,7 @@
 
 ## 💼 Technical Skills
 - Proficient in Unity and C#
+- Extensive experience in Uneal, Godot and Cocos
 - Expertise in game development
 - In-depth knowledge in game design
 - Strong understanding of game development principles and methodologies
